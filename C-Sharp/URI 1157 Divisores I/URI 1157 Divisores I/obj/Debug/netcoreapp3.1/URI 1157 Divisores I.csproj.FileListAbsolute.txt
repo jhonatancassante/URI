@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\bin\Debug\netcoreapp3.1\URI 1157 Divisores I.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\bin\Debug\netcoreapp3.1\URI 1157 Divisores I.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\bin\Debug\netcoreapp3.1\URI 1157 Divisores I.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\bin\Debug\netcoreapp3.1\URI 1157 Divisores I.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\bin\Debug\netcoreapp3.1\URI 1157 Divisores I.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\bin\Debug\netcoreapp3.1\URI 1157 Divisores I.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\obj\Debug\netcoreapp3.1\URI 1157 Divisores I.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\obj\Debug\netcoreapp3.1\URI 1157 Divisores I.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\obj\Debug\netcoreapp3.1\URI 1157 Divisores I.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\obj\Debug\netcoreapp3.1\URI 1157 Divisores I.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\obj\Debug\netcoreapp3.1\URI 1157 Divisores I.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1157 Divisores I\URI 1157 Divisores I\obj\Debug\netcoreapp3.1\URI 1157 Divisores I.genruntimeconfig.cache

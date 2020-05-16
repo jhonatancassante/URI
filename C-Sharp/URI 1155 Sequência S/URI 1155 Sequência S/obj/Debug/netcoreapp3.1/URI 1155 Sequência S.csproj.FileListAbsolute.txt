@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\bin\Debug\netcoreapp3.1\URI 1155 Sequência S.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\bin\Debug\netcoreapp3.1\URI 1155 Sequência S.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\bin\Debug\netcoreapp3.1\URI 1155 Sequência S.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\bin\Debug\netcoreapp3.1\URI 1155 Sequência S.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\bin\Debug\netcoreapp3.1\URI 1155 Sequência S.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\bin\Debug\netcoreapp3.1\URI 1155 Sequência S.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\obj\Debug\netcoreapp3.1\URI 1155 Sequência S.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\obj\Debug\netcoreapp3.1\URI 1155 Sequência S.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\obj\Debug\netcoreapp3.1\URI 1155 Sequência S.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\obj\Debug\netcoreapp3.1\URI 1155 Sequência S.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\obj\Debug\netcoreapp3.1\URI 1155 Sequência S.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1155 Sequência S\URI 1155 Sequência S\obj\Debug\netcoreapp3.1\URI 1155 Sequência S.genruntimeconfig.cache

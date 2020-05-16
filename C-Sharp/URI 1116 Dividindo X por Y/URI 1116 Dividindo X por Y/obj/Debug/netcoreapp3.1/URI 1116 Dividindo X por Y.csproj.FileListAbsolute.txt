@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\bin\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\bin\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\bin\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\bin\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\bin\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\bin\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\obj\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\obj\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\obj\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\obj\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\obj\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1116 Dividindo X por Y\URI 1116 Dividindo X por Y\obj\Debug\netcoreapp3.1\URI 1116 Dividindo X por Y.genruntimeconfig.cache

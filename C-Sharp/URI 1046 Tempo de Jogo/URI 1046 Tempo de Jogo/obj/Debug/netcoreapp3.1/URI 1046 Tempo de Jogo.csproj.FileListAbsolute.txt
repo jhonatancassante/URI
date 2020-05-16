@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\bin\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\bin\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\bin\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\bin\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\bin\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\bin\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\obj\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\obj\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\obj\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\obj\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1046 Tempo de Jogo\URI 1046 Tempo de Jogo\obj\Debug\netcoreapp3.1\URI 1046 Tempo de Jogo.pdb

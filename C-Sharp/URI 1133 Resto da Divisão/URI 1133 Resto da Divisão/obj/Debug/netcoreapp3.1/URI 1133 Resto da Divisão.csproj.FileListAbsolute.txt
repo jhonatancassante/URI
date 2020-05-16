@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\bin\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\bin\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\bin\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\bin\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\bin\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\bin\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\obj\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\obj\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\obj\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\obj\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\obj\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1133 Resto da Divisão\URI 1133 Resto da Divisão\obj\Debug\netcoreapp3.1\URI 1133 Resto da Divisão.genruntimeconfig.cache

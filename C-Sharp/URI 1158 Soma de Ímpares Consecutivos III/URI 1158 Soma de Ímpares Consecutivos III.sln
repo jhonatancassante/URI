@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI 1158 Soma de Ímpares Consecutivos III", "URI 1158 Soma de Ímpares Consecutivos III\URI 1158 Soma de Ímpares Consecutivos III.csproj", "{EC950F89-2044-4CB8-899D-6ED1D31DC870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC950F89-2044-4CB8-899D-6ED1D31DC870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC950F89-2044-4CB8-899D-6ED1D31DC870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC950F89-2044-4CB8-899D-6ED1D31DC870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC950F89-2044-4CB8-899D-6ED1D31DC870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1338D09D-2E53-4B92-9959-F88A9D628366}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\bin\Debug\netcoreapp3.1\URI 1005 Média 1.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\bin\Debug\netcoreapp3.1\URI 1005 Média 1.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\bin\Debug\netcoreapp3.1\URI 1005 Média 1.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\bin\Debug\netcoreapp3.1\URI 1005 Média 1.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\bin\Debug\netcoreapp3.1\URI 1005 Média 1.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\bin\Debug\netcoreapp3.1\URI 1005 Média 1.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\obj\Debug\netcoreapp3.1\URI 1005 Média 1.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\obj\Debug\netcoreapp3.1\URI 1005 Média 1.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\obj\Debug\netcoreapp3.1\URI 1005 Média 1.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1005 Média 1\URI 1005 Média 1\obj\Debug\netcoreapp3.1\URI 1005 Média 1.pdb

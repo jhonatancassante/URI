@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\bin\Debug\netcoreapp3.1\URI 1050 DDD.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\bin\Debug\netcoreapp3.1\URI 1050 DDD.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\bin\Debug\netcoreapp3.1\URI 1050 DDD.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\bin\Debug\netcoreapp3.1\URI 1050 DDD.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\bin\Debug\netcoreapp3.1\URI 1050 DDD.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\bin\Debug\netcoreapp3.1\URI 1050 DDD.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\obj\Debug\netcoreapp3.1\URI 1050 DDD.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\obj\Debug\netcoreapp3.1\URI 1050 DDD.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\obj\Debug\netcoreapp3.1\URI 1050 DDD.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\obj\Debug\netcoreapp3.1\URI 1050 DDD.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1050 DDD\URI 1050 DDD\obj\Debug\netcoreapp3.1\URI 1050 DDD.pdb

@@ -1,0 +1,11 @@
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\bin\Debug\netcoreapp3.1\URI 1011 Esfera.exe
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\bin\Debug\netcoreapp3.1\URI 1011 Esfera.deps.json
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\bin\Debug\netcoreapp3.1\URI 1011 Esfera.runtimeconfig.json
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\bin\Debug\netcoreapp3.1\URI 1011 Esfera.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\bin\Debug\netcoreapp3.1\URI 1011 Esfera.dll
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\bin\Debug\netcoreapp3.1\URI 1011 Esfera.pdb
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\obj\Debug\netcoreapp3.1\URI 1011 Esfera.csprojAssemblyReference.cache
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\obj\Debug\netcoreapp3.1\URI 1011 Esfera.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\obj\Debug\netcoreapp3.1\URI 1011 Esfera.AssemblyInfo.cs
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\obj\Debug\netcoreapp3.1\URI 1011 Esfera.dll
+C:\Users\jhona\source\repos\URI 1011 Esfera\URI 1011 Esfera\obj\Debug\netcoreapp3.1\URI 1011 Esfera.pdb

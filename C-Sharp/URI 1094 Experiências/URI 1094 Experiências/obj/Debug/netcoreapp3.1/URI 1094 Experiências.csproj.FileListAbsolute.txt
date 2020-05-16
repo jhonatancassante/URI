@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\bin\Debug\netcoreapp3.1\URI 1094 Experiências.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\bin\Debug\netcoreapp3.1\URI 1094 Experiências.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\bin\Debug\netcoreapp3.1\URI 1094 Experiências.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\bin\Debug\netcoreapp3.1\URI 1094 Experiências.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\bin\Debug\netcoreapp3.1\URI 1094 Experiências.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\bin\Debug\netcoreapp3.1\URI 1094 Experiências.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\obj\Debug\netcoreapp3.1\URI 1094 Experiências.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\obj\Debug\netcoreapp3.1\URI 1094 Experiências.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\obj\Debug\netcoreapp3.1\URI 1094 Experiências.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\obj\Debug\netcoreapp3.1\URI 1094 Experiências.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\obj\Debug\netcoreapp3.1\URI 1094 Experiências.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1094 Experiências\URI 1094 Experiências\obj\Debug\netcoreapp3.1\URI 1094 Experiências.genruntimeconfig.cache

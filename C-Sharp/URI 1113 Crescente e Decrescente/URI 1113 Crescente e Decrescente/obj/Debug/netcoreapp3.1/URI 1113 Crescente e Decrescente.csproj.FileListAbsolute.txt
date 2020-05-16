@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\bin\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\bin\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\bin\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\bin\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\bin\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\bin\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\obj\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\obj\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\obj\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\obj\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\obj\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\obj\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1113 Crescente e Decrescente\URI 1113 Crescente e Decrescente\obj\Debug\netcoreapp3.1\URI 1113 Crescente e Decrescente.genruntimeconfig.cache

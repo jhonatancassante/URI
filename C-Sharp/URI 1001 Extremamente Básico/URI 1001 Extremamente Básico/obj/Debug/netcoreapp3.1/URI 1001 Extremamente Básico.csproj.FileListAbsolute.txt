@@ -1,0 +1,10 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\bin\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\bin\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\bin\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\bin\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\bin\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\bin\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\obj\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\obj\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\obj\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1001 Extremamente Básico\URI 1001 Extremamente Básico\obj\Debug\netcoreapp3.1\URI 1001 Extremamente Básico.pdb

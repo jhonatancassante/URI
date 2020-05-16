@@ -1,0 +1,10 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\bin\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\bin\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\bin\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\bin\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\bin\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\bin\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\obj\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\obj\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\obj\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1009 Salário com Bônus\URI 1009 Salário com Bônus\obj\Debug\netcoreapp3.1\URI 1009 Salário com Bônus.pdb

@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\bin\Debug\netcoreapp3.1\URI 1065 Número Primo.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\bin\Debug\netcoreapp3.1\URI 1065 Número Primo.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\bin\Debug\netcoreapp3.1\URI 1065 Número Primo.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\bin\Debug\netcoreapp3.1\URI 1065 Número Primo.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\bin\Debug\netcoreapp3.1\URI 1065 Número Primo.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\bin\Debug\netcoreapp3.1\URI 1065 Número Primo.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\obj\Debug\netcoreapp3.1\URI 1065 Número Primo.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\obj\Debug\netcoreapp3.1\URI 1065 Número Primo.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\obj\Debug\netcoreapp3.1\URI 1065 Número Primo.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\obj\Debug\netcoreapp3.1\URI 1065 Número Primo.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\obj\Debug\netcoreapp3.1\URI 1065 Número Primo.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1065 Número Primo\URI 1065 Número Primo\obj\Debug\netcoreapp3.1\URI 1065 Número Primo.genruntimeconfig.cache

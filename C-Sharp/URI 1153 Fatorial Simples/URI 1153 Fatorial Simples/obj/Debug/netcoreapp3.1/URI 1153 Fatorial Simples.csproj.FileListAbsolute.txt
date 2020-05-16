@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\bin\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\bin\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\bin\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\bin\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\bin\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\bin\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\obj\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\obj\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\obj\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\obj\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\obj\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\obj\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1153 Fatorial Simples\URI 1153 Fatorial Simples\obj\Debug\netcoreapp3.1\URI 1153 Fatorial Simples.genruntimeconfig.cache

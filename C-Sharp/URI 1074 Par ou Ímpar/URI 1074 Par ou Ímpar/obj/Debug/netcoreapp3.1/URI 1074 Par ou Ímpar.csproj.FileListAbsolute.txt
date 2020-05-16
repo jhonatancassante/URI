@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\bin\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\bin\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\bin\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\bin\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\bin\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\bin\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\obj\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\obj\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\obj\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\obj\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\obj\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\obj\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1074 Par ou Ímpar\URI 1074 Par ou Ímpar\obj\Debug\netcoreapp3.1\URI 1074 Par ou Ímpar.genruntimeconfig.cache

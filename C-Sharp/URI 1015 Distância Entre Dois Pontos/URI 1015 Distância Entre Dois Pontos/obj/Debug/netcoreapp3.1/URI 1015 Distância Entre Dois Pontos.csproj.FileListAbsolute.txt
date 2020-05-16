@@ -1,0 +1,11 @@
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\bin\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.exe
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\bin\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.deps.json
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\bin\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.runtimeconfig.json
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\bin\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\bin\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.dll
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\bin\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.pdb
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\obj\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.csprojAssemblyReference.cache
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\obj\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\obj\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.AssemblyInfo.cs
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\obj\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.dll
+C:\Users\jhona\source\repos\URI 1015 Distância Entre Dois Pontos\URI 1015 Distância Entre Dois Pontos\obj\Debug\netcoreapp3.1\URI 1015 Distância Entre Dois Pontos.pdb

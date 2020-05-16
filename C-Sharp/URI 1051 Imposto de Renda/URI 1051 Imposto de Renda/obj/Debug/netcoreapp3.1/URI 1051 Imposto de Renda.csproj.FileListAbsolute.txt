@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\obj\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\obj\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\obj\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\bin\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\bin\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\bin\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\bin\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\bin\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\bin\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\obj\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1051 Imposto de Renda\URI 1051 Imposto de Renda\obj\Debug\netcoreapp3.1\URI 1051 Imposto de Renda.pdb

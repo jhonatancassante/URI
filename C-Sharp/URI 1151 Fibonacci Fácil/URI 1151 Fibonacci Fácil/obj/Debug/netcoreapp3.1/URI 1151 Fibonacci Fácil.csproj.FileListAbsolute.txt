@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\bin\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\bin\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\bin\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\bin\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\bin\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\bin\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\obj\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\obj\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\obj\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\obj\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\obj\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\obj\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil\obj\Debug\netcoreapp3.1\URI 1151 Fibonacci Fácil.genruntimeconfig.cache

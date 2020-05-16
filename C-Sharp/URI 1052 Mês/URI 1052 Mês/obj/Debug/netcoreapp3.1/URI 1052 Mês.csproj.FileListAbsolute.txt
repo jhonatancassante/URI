@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\bin\Debug\netcoreapp3.1\URI 1052 Mês.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\bin\Debug\netcoreapp3.1\URI 1052 Mês.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\bin\Debug\netcoreapp3.1\URI 1052 Mês.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\bin\Debug\netcoreapp3.1\URI 1052 Mês.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\bin\Debug\netcoreapp3.1\URI 1052 Mês.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\bin\Debug\netcoreapp3.1\URI 1052 Mês.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\obj\Debug\netcoreapp3.1\URI 1052 Mês.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\obj\Debug\netcoreapp3.1\URI 1052 Mês.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\obj\Debug\netcoreapp3.1\URI 1052 Mês.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\obj\Debug\netcoreapp3.1\URI 1052 Mês.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1052 Mês\URI 1052 Mês\obj\Debug\netcoreapp3.1\URI 1052 Mês.pdb

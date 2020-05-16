@@ -1,0 +1,10 @@
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\bin\Debug\netcoreapp3.1\URI 1014 Consumo.exe
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\bin\Debug\netcoreapp3.1\URI 1014 Consumo.deps.json
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\bin\Debug\netcoreapp3.1\URI 1014 Consumo.runtimeconfig.json
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\bin\Debug\netcoreapp3.1\URI 1014 Consumo.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\bin\Debug\netcoreapp3.1\URI 1014 Consumo.dll
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\bin\Debug\netcoreapp3.1\URI 1014 Consumo.pdb
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\obj\Debug\netcoreapp3.1\URI 1014 Consumo.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\obj\Debug\netcoreapp3.1\URI 1014 Consumo.AssemblyInfo.cs
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\obj\Debug\netcoreapp3.1\URI 1014 Consumo.dll
+C:\Users\jhona\source\repos\URI 1014 Consumo\URI 1014 Consumo\obj\Debug\netcoreapp3.1\URI 1014 Consumo.pdb

@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\bin\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\bin\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\bin\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\bin\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\bin\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\bin\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\obj\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\obj\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\obj\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\obj\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\obj\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1073 Quadrado de Pares\URI 1073 Quadrado de Pares\obj\Debug\netcoreapp3.1\URI 1073 Quadrado de Pares.genruntimeconfig.cache

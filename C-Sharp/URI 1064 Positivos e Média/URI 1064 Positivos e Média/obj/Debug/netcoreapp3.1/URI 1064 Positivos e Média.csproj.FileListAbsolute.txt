@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\bin\Debug\netcoreapp3.1\URI 1064 Positivos e Média.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\bin\Debug\netcoreapp3.1\URI 1064 Positivos e Média.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\bin\Debug\netcoreapp3.1\URI 1064 Positivos e Média.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\bin\Debug\netcoreapp3.1\URI 1064 Positivos e Média.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\bin\Debug\netcoreapp3.1\URI 1064 Positivos e Média.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\bin\Debug\netcoreapp3.1\URI 1064 Positivos e Média.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\obj\Debug\netcoreapp3.1\URI 1064 Positivos e Média.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\obj\Debug\netcoreapp3.1\URI 1064 Positivos e Média.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\obj\Debug\netcoreapp3.1\URI 1064 Positivos e Média.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\obj\Debug\netcoreapp3.1\URI 1064 Positivos e Média.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1064 Positivos e Média\URI 1064 Positivos e Média\obj\Debug\netcoreapp3.1\URI 1064 Positivos e Média.pdb

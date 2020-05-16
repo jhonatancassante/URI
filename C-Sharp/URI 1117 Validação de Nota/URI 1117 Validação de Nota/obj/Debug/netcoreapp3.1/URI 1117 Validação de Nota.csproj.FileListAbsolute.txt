@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\bin\Debug\netcoreapp3.1\URI 1117 Validação de Nota.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\bin\Debug\netcoreapp3.1\URI 1117 Validação de Nota.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\bin\Debug\netcoreapp3.1\URI 1117 Validação de Nota.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\bin\Debug\netcoreapp3.1\URI 1117 Validação de Nota.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\bin\Debug\netcoreapp3.1\URI 1117 Validação de Nota.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\bin\Debug\netcoreapp3.1\URI 1117 Validação de Nota.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\obj\Debug\netcoreapp3.1\URI 1117 Validação de Nota.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\obj\Debug\netcoreapp3.1\URI 1117 Validação de Nota.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\obj\Debug\netcoreapp3.1\URI 1117 Validação de Nota.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\obj\Debug\netcoreapp3.1\URI 1117 Validação de Nota.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\obj\Debug\netcoreapp3.1\URI 1117 Validação de Nota.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1117 Validação de Nota\URI 1117 Validação de Nota\obj\Debug\netcoreapp3.1\URI 1117 Validação de Nota.genruntimeconfig.cache

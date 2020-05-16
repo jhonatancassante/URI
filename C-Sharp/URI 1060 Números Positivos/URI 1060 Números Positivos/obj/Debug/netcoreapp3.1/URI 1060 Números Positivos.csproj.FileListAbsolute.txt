@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\obj\Debug\netcoreapp3.1\URI 1060 Números Positivos.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\obj\Debug\netcoreapp3.1\URI 1060 Números Positivos.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\obj\Debug\netcoreapp3.1\URI 1060 Números Positivos.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\bin\Debug\netcoreapp3.1\URI 1060 Números Positivos.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\bin\Debug\netcoreapp3.1\URI 1060 Números Positivos.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\bin\Debug\netcoreapp3.1\URI 1060 Números Positivos.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\bin\Debug\netcoreapp3.1\URI 1060 Números Positivos.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\bin\Debug\netcoreapp3.1\URI 1060 Números Positivos.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\bin\Debug\netcoreapp3.1\URI 1060 Números Positivos.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\obj\Debug\netcoreapp3.1\URI 1060 Números Positivos.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1060 Números Positivos\URI 1060 Números Positivos\obj\Debug\netcoreapp3.1\URI 1060 Números Positivos.pdb

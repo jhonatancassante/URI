@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\bin\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\bin\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\bin\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\bin\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\bin\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\bin\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\obj\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\obj\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\obj\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\obj\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\obj\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\obj\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1144 Sequência Lógica\URI 1144 Sequência Lógica\obj\Debug\netcoreapp3.1\URI 1144 Sequência Lógica.genruntimeconfig.cache

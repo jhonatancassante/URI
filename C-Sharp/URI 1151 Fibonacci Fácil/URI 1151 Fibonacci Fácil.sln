@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI 1151 Fibonacci Fácil", "URI 1151 Fibonacci Fácil\URI 1151 Fibonacci Fácil.csproj", "{A2C6D70C-FC82-40CB-A1E1-5C3AC32BADE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C6D70C-FC82-40CB-A1E1-5C3AC32BADE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C6D70C-FC82-40CB-A1E1-5C3AC32BADE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C6D70C-FC82-40CB-A1E1-5C3AC32BADE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C6D70C-FC82-40CB-A1E1-5C3AC32BADE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B16B24-1D78-40BC-9D82-E41645ECF915}
+	EndGlobalSection
+EndGlobal

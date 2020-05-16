@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\obj\Debug\netcoreapp3.1\URI 1040 Média 3.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\obj\Debug\netcoreapp3.1\URI 1040 Média 3.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\obj\Debug\netcoreapp3.1\URI 1040 Média 3.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\bin\Debug\netcoreapp3.1\URI 1040 Média 3.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\bin\Debug\netcoreapp3.1\URI 1040 Média 3.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\bin\Debug\netcoreapp3.1\URI 1040 Média 3.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\bin\Debug\netcoreapp3.1\URI 1040 Média 3.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\bin\Debug\netcoreapp3.1\URI 1040 Média 3.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\bin\Debug\netcoreapp3.1\URI 1040 Média 3.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\obj\Debug\netcoreapp3.1\URI 1040 Média 3.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1040 Média 3\URI 1040 Média 3\obj\Debug\netcoreapp3.1\URI 1040 Média 3.pdb

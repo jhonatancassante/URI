@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\obj\Debug\netcoreapp3.1\URI 1002 Área do Círculo.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\obj\Debug\netcoreapp3.1\URI 1002 Área do Círculo.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\obj\Debug\netcoreapp3.1\URI 1002 Área do Círculo.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\bin\Debug\netcoreapp3.1\URI 1002 Área do Círculo.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\bin\Debug\netcoreapp3.1\URI 1002 Área do Círculo.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\bin\Debug\netcoreapp3.1\URI 1002 Área do Círculo.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\bin\Debug\netcoreapp3.1\URI 1002 Área do Círculo.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\bin\Debug\netcoreapp3.1\URI 1002 Área do Círculo.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\bin\Debug\netcoreapp3.1\URI 1002 Área do Círculo.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\obj\Debug\netcoreapp3.1\URI 1002 Área do Círculo.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1002 Área do Círculo\URI 1002 Área do Círculo\obj\Debug\netcoreapp3.1\URI 1002 Área do Círculo.pdb

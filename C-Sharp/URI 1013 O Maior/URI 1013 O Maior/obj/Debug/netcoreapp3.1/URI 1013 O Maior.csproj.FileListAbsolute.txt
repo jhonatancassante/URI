@@ -1,0 +1,10 @@
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\bin\Debug\netcoreapp3.1\URI 1013 O Maior.exe
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\bin\Debug\netcoreapp3.1\URI 1013 O Maior.deps.json
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\bin\Debug\netcoreapp3.1\URI 1013 O Maior.runtimeconfig.json
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\bin\Debug\netcoreapp3.1\URI 1013 O Maior.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\bin\Debug\netcoreapp3.1\URI 1013 O Maior.dll
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\bin\Debug\netcoreapp3.1\URI 1013 O Maior.pdb
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\obj\Debug\netcoreapp3.1\URI 1013 O Maior.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\obj\Debug\netcoreapp3.1\URI 1013 O Maior.AssemblyInfo.cs
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\obj\Debug\netcoreapp3.1\URI 1013 O Maior.dll
+C:\Users\jhona\source\repos\URI 1013 O Maior\URI 1013 O Maior\obj\Debug\netcoreapp3.1\URI 1013 O Maior.pdb

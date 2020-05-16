@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\bin\Debug\netcoreapp3.1\URI 1007 Diferença.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\bin\Debug\netcoreapp3.1\URI 1007 Diferença.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\bin\Debug\netcoreapp3.1\URI 1007 Diferença.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\bin\Debug\netcoreapp3.1\URI 1007 Diferença.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\bin\Debug\netcoreapp3.1\URI 1007 Diferença.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\bin\Debug\netcoreapp3.1\URI 1007 Diferença.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\obj\Debug\netcoreapp3.1\URI 1007 Diferença.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\obj\Debug\netcoreapp3.1\URI 1007 Diferença.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\obj\Debug\netcoreapp3.1\URI 1007 Diferença.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\obj\Debug\netcoreapp3.1\URI 1007 Diferença.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1007 Diferença\URI 1007 Diferença\obj\Debug\netcoreapp3.1\URI 1007 Diferença.pdb

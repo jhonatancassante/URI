@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\bin\Debug\netcoreapp3.1\URI 1003 Soma Simples.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\bin\Debug\netcoreapp3.1\URI 1003 Soma Simples.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\bin\Debug\netcoreapp3.1\URI 1003 Soma Simples.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\bin\Debug\netcoreapp3.1\URI 1003 Soma Simples.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\bin\Debug\netcoreapp3.1\URI 1003 Soma Simples.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\bin\Debug\netcoreapp3.1\URI 1003 Soma Simples.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\obj\Debug\netcoreapp3.1\URI 1003 Soma Simples.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\obj\Debug\netcoreapp3.1\URI 1003 Soma Simples.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\obj\Debug\netcoreapp3.1\URI 1003 Soma Simples.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\obj\Debug\netcoreapp3.1\URI 1003 Soma Simples.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1003 Soma Simples\URI 1003 Soma Simples\obj\Debug\netcoreapp3.1\URI 1003 Soma Simples.pdb

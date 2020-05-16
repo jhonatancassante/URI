@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\bin\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\bin\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\bin\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\bin\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\bin\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\bin\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\obj\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\obj\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\obj\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\obj\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\obj\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1079 Médias Ponderadas\URI 1079 Médias Ponderadas\obj\Debug\netcoreapp3.1\URI 1079 Médias Ponderadas.genruntimeconfig.cache

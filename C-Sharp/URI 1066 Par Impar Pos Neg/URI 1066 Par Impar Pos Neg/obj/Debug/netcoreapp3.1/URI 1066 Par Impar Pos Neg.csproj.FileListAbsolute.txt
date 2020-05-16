@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\obj\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\obj\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\obj\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\bin\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\bin\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\bin\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\bin\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\bin\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\bin\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\obj\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1066 Par Impar Pos Neg\URI 1066 Par Impar Pos Neg\obj\Debug\netcoreapp3.1\URI 1066 Par Impar Pos Neg.pdb

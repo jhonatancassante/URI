@@ -1,0 +1,10 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\obj\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\obj\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\bin\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\bin\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\bin\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\bin\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\bin\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\bin\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\obj\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1070 Seis Números Ímpares\URI 1070 Seis Números Ímpares\obj\Debug\netcoreapp3.1\URI 1070 Seis Números Ímpares.pdb
