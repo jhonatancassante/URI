@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI 1043 Triângulo", "URI 1043 Triângulo\URI 1043 Triângulo.csproj", "{86669EBE-EBAE-4F30-B4E5-95B3132BAD4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86669EBE-EBAE-4F30-B4E5-95B3132BAD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86669EBE-EBAE-4F30-B4E5-95B3132BAD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86669EBE-EBAE-4F30-B4E5-95B3132BAD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86669EBE-EBAE-4F30-B4E5-95B3132BAD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4DAACA1-A0C4-4B32-825F-543F89D6773E}
+	EndGlobalSection
+EndGlobal

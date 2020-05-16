@@ -1,0 +1,10 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\bin\Debug\netcoreapp3.1\URI 1049 Animal.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\bin\Debug\netcoreapp3.1\URI 1049 Animal.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\bin\Debug\netcoreapp3.1\URI 1049 Animal.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\bin\Debug\netcoreapp3.1\URI 1049 Animal.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\bin\Debug\netcoreapp3.1\URI 1049 Animal.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\bin\Debug\netcoreapp3.1\URI 1049 Animal.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\obj\Debug\netcoreapp3.1\URI 1049 Animal.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\obj\Debug\netcoreapp3.1\URI 1049 Animal.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\obj\Debug\netcoreapp3.1\URI 1049 Animal.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1049 Animal\URI 1049 Animal\obj\Debug\netcoreapp3.1\URI 1049 Animal.pdb

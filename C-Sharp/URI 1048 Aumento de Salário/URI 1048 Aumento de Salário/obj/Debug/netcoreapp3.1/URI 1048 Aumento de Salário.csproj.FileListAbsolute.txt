@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\bin\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\bin\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\bin\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\bin\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\bin\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\bin\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\obj\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\obj\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\obj\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\obj\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1048 Aumento de Salário\URI 1048 Aumento de Salário\obj\Debug\netcoreapp3.1\URI 1048 Aumento de Salário.pdb

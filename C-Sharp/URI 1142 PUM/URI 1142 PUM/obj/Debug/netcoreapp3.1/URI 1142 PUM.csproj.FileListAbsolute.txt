@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\bin\Debug\netcoreapp3.1\URI 1142 PUM.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\bin\Debug\netcoreapp3.1\URI 1142 PUM.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\bin\Debug\netcoreapp3.1\URI 1142 PUM.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\bin\Debug\netcoreapp3.1\URI 1142 PUM.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\bin\Debug\netcoreapp3.1\URI 1142 PUM.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\bin\Debug\netcoreapp3.1\URI 1142 PUM.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\obj\Debug\netcoreapp3.1\URI 1142 PUM.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\obj\Debug\netcoreapp3.1\URI 1142 PUM.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\obj\Debug\netcoreapp3.1\URI 1142 PUM.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\obj\Debug\netcoreapp3.1\URI 1142 PUM.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\obj\Debug\netcoreapp3.1\URI 1142 PUM.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1142 PUM\URI 1142 PUM\obj\Debug\netcoreapp3.1\URI 1142 PUM.genruntimeconfig.cache

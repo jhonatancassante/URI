@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\obj\Debug\netcoreapp3.1\URI 1078 Tabuada.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\obj\Debug\netcoreapp3.1\URI 1078 Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\obj\Debug\netcoreapp3.1\URI 1078 Tabuada.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\obj\Debug\netcoreapp3.1\URI 1078 Tabuada.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\bin\Debug\netcoreapp3.1\URI 1078 Tabuada.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\bin\Debug\netcoreapp3.1\URI 1078 Tabuada.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\bin\Debug\netcoreapp3.1\URI 1078 Tabuada.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\bin\Debug\netcoreapp3.1\URI 1078 Tabuada.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\bin\Debug\netcoreapp3.1\URI 1078 Tabuada.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\bin\Debug\netcoreapp3.1\URI 1078 Tabuada.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\obj\Debug\netcoreapp3.1\URI 1078 Tabuada.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\obj\Debug\netcoreapp3.1\URI 1078 Tabuada.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1078 Tabuada\URI 1078 Tabuada\obj\Debug\netcoreapp3.1\URI 1078 Tabuada.genruntimeconfig.cache

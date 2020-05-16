@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\obj\Debug\netcoreapp3.1\URI 1131 Grenais.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\obj\Debug\netcoreapp3.1\URI 1131 Grenais.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\obj\Debug\netcoreapp3.1\URI 1131 Grenais.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\obj\Debug\netcoreapp3.1\URI 1131 Grenais.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\bin\Debug\netcoreapp3.1\URI 1131 Grenais.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\bin\Debug\netcoreapp3.1\URI 1131 Grenais.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\bin\Debug\netcoreapp3.1\URI 1131 Grenais.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\bin\Debug\netcoreapp3.1\URI 1131 Grenais.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\bin\Debug\netcoreapp3.1\URI 1131 Grenais.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\bin\Debug\netcoreapp3.1\URI 1131 Grenais.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\obj\Debug\netcoreapp3.1\URI 1131 Grenais.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\obj\Debug\netcoreapp3.1\URI 1131 Grenais.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1131 Grenais\URI 1131 Grenais\obj\Debug\netcoreapp3.1\URI 1131 Grenais.genruntimeconfig.cache

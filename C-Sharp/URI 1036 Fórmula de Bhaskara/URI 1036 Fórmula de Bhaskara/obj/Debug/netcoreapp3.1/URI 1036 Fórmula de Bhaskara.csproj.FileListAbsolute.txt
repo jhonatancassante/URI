@@ -1,0 +1,10 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\bin\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1036 Fórmula de Bhaskara\URI 1036 Fórmula de Bhaskara\obj\Debug\netcoreapp3.1\URI 1036 Fórmula de Bhaskara.pdb

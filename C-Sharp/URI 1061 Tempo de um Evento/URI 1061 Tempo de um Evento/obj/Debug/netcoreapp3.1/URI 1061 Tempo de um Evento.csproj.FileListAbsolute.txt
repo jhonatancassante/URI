@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\bin\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.exe
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\bin\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.deps.json
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\bin\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\bin\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\bin\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\bin\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.pdb
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\obj\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\obj\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\obj\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\obj\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1061 Tempo de um Evento\URI 1061 Tempo de um Evento\obj\Debug\netcoreapp3.1\URI 1061 Tempo de um Evento.pdb

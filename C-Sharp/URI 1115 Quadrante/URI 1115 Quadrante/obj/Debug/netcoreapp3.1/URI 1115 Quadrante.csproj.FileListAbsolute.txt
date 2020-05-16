@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\bin\Debug\netcoreapp3.1\URI 1115 Quadrante.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\bin\Debug\netcoreapp3.1\URI 1115 Quadrante.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\bin\Debug\netcoreapp3.1\URI 1115 Quadrante.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\bin\Debug\netcoreapp3.1\URI 1115 Quadrante.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\bin\Debug\netcoreapp3.1\URI 1115 Quadrante.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\bin\Debug\netcoreapp3.1\URI 1115 Quadrante.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\obj\Debug\netcoreapp3.1\URI 1115 Quadrante.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\obj\Debug\netcoreapp3.1\URI 1115 Quadrante.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\obj\Debug\netcoreapp3.1\URI 1115 Quadrante.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\obj\Debug\netcoreapp3.1\URI 1115 Quadrante.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\obj\Debug\netcoreapp3.1\URI 1115 Quadrante.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1115 Quadrante\URI 1115 Quadrante\obj\Debug\netcoreapp3.1\URI 1115 Quadrante.genruntimeconfig.cache

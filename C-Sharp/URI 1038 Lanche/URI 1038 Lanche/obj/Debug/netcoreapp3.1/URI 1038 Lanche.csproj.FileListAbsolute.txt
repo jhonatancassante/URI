@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\obj\Debug\netcoreapp3.1\URI 1038 Lanche.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\obj\Debug\netcoreapp3.1\URI 1038 Lanche.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\obj\Debug\netcoreapp3.1\URI 1038 Lanche.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\bin\Debug\netcoreapp3.1\URI 1038 Lanche.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\bin\Debug\netcoreapp3.1\URI 1038 Lanche.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\bin\Debug\netcoreapp3.1\URI 1038 Lanche.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\bin\Debug\netcoreapp3.1\URI 1038 Lanche.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\bin\Debug\netcoreapp3.1\URI 1038 Lanche.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\bin\Debug\netcoreapp3.1\URI 1038 Lanche.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\obj\Debug\netcoreapp3.1\URI 1038 Lanche.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1038 Lanche\URI 1038 Lanche\obj\Debug\netcoreapp3.1\URI 1038 Lanche.pdb

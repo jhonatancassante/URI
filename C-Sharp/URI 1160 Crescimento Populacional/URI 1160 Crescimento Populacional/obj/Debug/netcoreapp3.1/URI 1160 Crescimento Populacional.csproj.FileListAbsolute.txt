@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\bin\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\bin\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\bin\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\bin\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\bin\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\bin\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\obj\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\obj\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\obj\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\obj\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\obj\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\obj\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1160 Crescimento Populacional\URI 1160 Crescimento Populacional\obj\Debug\netcoreapp3.1\URI 1160 Crescimento Populacional.genruntimeconfig.cache

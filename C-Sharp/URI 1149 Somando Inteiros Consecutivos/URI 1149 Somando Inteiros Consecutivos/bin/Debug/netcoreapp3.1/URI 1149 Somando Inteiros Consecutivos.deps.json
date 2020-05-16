@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "URI 1149 Somando Inteiros Consecutivos/1.0.0": {
+        "runtime": {
+          "URI 1149 Somando Inteiros Consecutivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI 1149 Somando Inteiros Consecutivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

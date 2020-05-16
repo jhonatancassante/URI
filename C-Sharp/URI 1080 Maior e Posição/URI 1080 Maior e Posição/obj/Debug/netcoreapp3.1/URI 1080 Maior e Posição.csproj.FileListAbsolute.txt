@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\bin\Debug\netcoreapp3.1\URI 1080 Maior e Posição.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\bin\Debug\netcoreapp3.1\URI 1080 Maior e Posição.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\bin\Debug\netcoreapp3.1\URI 1080 Maior e Posição.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\bin\Debug\netcoreapp3.1\URI 1080 Maior e Posição.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\bin\Debug\netcoreapp3.1\URI 1080 Maior e Posição.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\bin\Debug\netcoreapp3.1\URI 1080 Maior e Posição.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\obj\Debug\netcoreapp3.1\URI 1080 Maior e Posição.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\obj\Debug\netcoreapp3.1\URI 1080 Maior e Posição.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\obj\Debug\netcoreapp3.1\URI 1080 Maior e Posição.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\obj\Debug\netcoreapp3.1\URI 1080 Maior e Posição.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\obj\Debug\netcoreapp3.1\URI 1080 Maior e Posição.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1080 Maior e Posição\URI 1080 Maior e Posição\obj\Debug\netcoreapp3.1\URI 1080 Maior e Posição.genruntimeconfig.cache

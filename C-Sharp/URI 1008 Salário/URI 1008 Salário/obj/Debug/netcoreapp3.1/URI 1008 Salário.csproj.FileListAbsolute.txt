@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\bin\Debug\netcoreapp3.1\URI 1008 Salário.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\bin\Debug\netcoreapp3.1\URI 1008 Salário.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\bin\Debug\netcoreapp3.1\URI 1008 Salário.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\bin\Debug\netcoreapp3.1\URI 1008 Salário.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\bin\Debug\netcoreapp3.1\URI 1008 Salário.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\bin\Debug\netcoreapp3.1\URI 1008 Salário.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\obj\Debug\netcoreapp3.1\URI 1008 Salário.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\obj\Debug\netcoreapp3.1\URI 1008 Salário.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\obj\Debug\netcoreapp3.1\URI 1008 Salário.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\obj\Debug\netcoreapp3.1\URI 1008 Salário.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1008 Salário\URI 1008 Salário\obj\Debug\netcoreapp3.1\URI 1008 Salário.pdb

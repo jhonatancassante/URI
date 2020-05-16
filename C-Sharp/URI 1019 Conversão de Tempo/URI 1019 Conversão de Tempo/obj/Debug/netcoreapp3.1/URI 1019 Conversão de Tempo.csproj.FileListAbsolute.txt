@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\bin\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.exe
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\bin\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.deps.json
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\bin\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\bin\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\bin\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\bin\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.pdb
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\obj\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\obj\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\obj\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\obj\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1019 Conversão de Tempo\URI 1019 Conversão de Tempo\obj\Debug\netcoreapp3.1\URI 1019 Conversão de Tempo.pdb

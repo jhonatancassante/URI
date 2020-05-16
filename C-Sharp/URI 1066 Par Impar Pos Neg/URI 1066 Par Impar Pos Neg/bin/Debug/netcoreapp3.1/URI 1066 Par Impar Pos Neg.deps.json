@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "URI 1066 Par Impar Pos Neg/1.0.0": {
+        "runtime": {
+          "URI 1066 Par Impar Pos Neg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI 1066 Par Impar Pos Neg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

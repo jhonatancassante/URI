@@ -1,0 +1,10 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\bin\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\bin\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\bin\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\bin\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\bin\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\bin\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\obj\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\obj\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\obj\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1010 Cálculo Simples\URI 1010 Cálculo Simples\obj\Debug\netcoreapp3.1\URI 1010 Cálculo Simples.pdb

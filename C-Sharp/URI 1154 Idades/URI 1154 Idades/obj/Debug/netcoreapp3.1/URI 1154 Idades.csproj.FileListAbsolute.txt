@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\bin\Debug\netcoreapp3.1\URI 1154 Idades.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\bin\Debug\netcoreapp3.1\URI 1154 Idades.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\bin\Debug\netcoreapp3.1\URI 1154 Idades.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\bin\Debug\netcoreapp3.1\URI 1154 Idades.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\bin\Debug\netcoreapp3.1\URI 1154 Idades.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\bin\Debug\netcoreapp3.1\URI 1154 Idades.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\obj\Debug\netcoreapp3.1\URI 1154 Idades.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\obj\Debug\netcoreapp3.1\URI 1154 Idades.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\obj\Debug\netcoreapp3.1\URI 1154 Idades.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\obj\Debug\netcoreapp3.1\URI 1154 Idades.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\obj\Debug\netcoreapp3.1\URI 1154 Idades.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\obj\Debug\netcoreapp3.1\URI 1154 Idades.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1154 Idades\URI 1154 Idades\obj\Debug\netcoreapp3.1\URI 1154 Idades.genruntimeconfig.cache

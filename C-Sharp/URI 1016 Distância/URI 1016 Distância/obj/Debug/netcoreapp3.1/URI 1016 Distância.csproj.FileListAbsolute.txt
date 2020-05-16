@@ -1,0 +1,10 @@
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\bin\Debug\netcoreapp3.1\URI 1016 Distância.exe
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\bin\Debug\netcoreapp3.1\URI 1016 Distância.deps.json
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\bin\Debug\netcoreapp3.1\URI 1016 Distância.runtimeconfig.json
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\bin\Debug\netcoreapp3.1\URI 1016 Distância.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\bin\Debug\netcoreapp3.1\URI 1016 Distância.dll
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\bin\Debug\netcoreapp3.1\URI 1016 Distância.pdb
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\obj\Debug\netcoreapp3.1\URI 1016 Distância.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\obj\Debug\netcoreapp3.1\URI 1016 Distância.AssemblyInfo.cs
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\obj\Debug\netcoreapp3.1\URI 1016 Distância.dll
+C:\Users\jhona\source\repos\URI 1016 Distância\URI 1016 Distância\obj\Debug\netcoreapp3.1\URI 1016 Distância.pdb

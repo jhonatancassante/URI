@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\bin\Debug\netcoreapp3.1\URI 1114 Senha Fixa.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\bin\Debug\netcoreapp3.1\URI 1114 Senha Fixa.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\bin\Debug\netcoreapp3.1\URI 1114 Senha Fixa.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\bin\Debug\netcoreapp3.1\URI 1114 Senha Fixa.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\bin\Debug\netcoreapp3.1\URI 1114 Senha Fixa.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\bin\Debug\netcoreapp3.1\URI 1114 Senha Fixa.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\obj\Debug\netcoreapp3.1\URI 1114 Senha Fixa.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\obj\Debug\netcoreapp3.1\URI 1114 Senha Fixa.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\obj\Debug\netcoreapp3.1\URI 1114 Senha Fixa.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\obj\Debug\netcoreapp3.1\URI 1114 Senha Fixa.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\obj\Debug\netcoreapp3.1\URI 1114 Senha Fixa.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1114 Senha Fixa\URI 1114 Senha Fixa\obj\Debug\netcoreapp3.1\URI 1114 Senha Fixa.genruntimeconfig.cache

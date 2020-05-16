@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\obj\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\obj\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\obj\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\bin\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.exe
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\bin\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.deps.json
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\bin\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\bin\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\bin\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\bin\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.pdb
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\obj\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1021 Notas e Moedas\URI 1021 Notas e Moedas\obj\Debug\netcoreapp3.1\URI 1021 Notas e Moedas.pdb

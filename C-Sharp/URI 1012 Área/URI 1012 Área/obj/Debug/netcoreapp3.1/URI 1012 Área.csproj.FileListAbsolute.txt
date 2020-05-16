@@ -1,0 +1,10 @@
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\bin\Debug\netcoreapp3.1\URI 1012 Área.exe
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\bin\Debug\netcoreapp3.1\URI 1012 Área.deps.json
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\bin\Debug\netcoreapp3.1\URI 1012 Área.runtimeconfig.json
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\bin\Debug\netcoreapp3.1\URI 1012 Área.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\bin\Debug\netcoreapp3.1\URI 1012 Área.dll
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\bin\Debug\netcoreapp3.1\URI 1012 Área.pdb
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\obj\Debug\netcoreapp3.1\URI 1012 Área.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\obj\Debug\netcoreapp3.1\URI 1012 Área.AssemblyInfo.cs
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\obj\Debug\netcoreapp3.1\URI 1012 Área.dll
+C:\Users\jhona\source\repos\URI 1012 Área\URI 1012 Área\obj\Debug\netcoreapp3.1\URI 1012 Área.pdb

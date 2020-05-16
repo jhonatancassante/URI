@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\bin\Debug\netcoreapp3.1\URI 1156 Sequência S II.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\bin\Debug\netcoreapp3.1\URI 1156 Sequência S II.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\bin\Debug\netcoreapp3.1\URI 1156 Sequência S II.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\bin\Debug\netcoreapp3.1\URI 1156 Sequência S II.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\bin\Debug\netcoreapp3.1\URI 1156 Sequência S II.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\bin\Debug\netcoreapp3.1\URI 1156 Sequência S II.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\obj\Debug\netcoreapp3.1\URI 1156 Sequência S II.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\obj\Debug\netcoreapp3.1\URI 1156 Sequência S II.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\obj\Debug\netcoreapp3.1\URI 1156 Sequência S II.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\obj\Debug\netcoreapp3.1\URI 1156 Sequência S II.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\obj\Debug\netcoreapp3.1\URI 1156 Sequência S II.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1156 Sequência S II\URI 1156 Sequência S II\obj\Debug\netcoreapp3.1\URI 1156 Sequência S II.genruntimeconfig.cache

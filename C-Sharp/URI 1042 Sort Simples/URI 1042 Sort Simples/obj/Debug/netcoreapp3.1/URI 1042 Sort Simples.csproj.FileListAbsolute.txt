@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\bin\Debug\netcoreapp3.1\URI 1042 Sort Simples.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\bin\Debug\netcoreapp3.1\URI 1042 Sort Simples.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\bin\Debug\netcoreapp3.1\URI 1042 Sort Simples.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\bin\Debug\netcoreapp3.1\URI 1042 Sort Simples.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\bin\Debug\netcoreapp3.1\URI 1042 Sort Simples.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\bin\Debug\netcoreapp3.1\URI 1042 Sort Simples.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\obj\Debug\netcoreapp3.1\URI 1042 Sort Simples.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\obj\Debug\netcoreapp3.1\URI 1042 Sort Simples.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\obj\Debug\netcoreapp3.1\URI 1042 Sort Simples.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\obj\Debug\netcoreapp3.1\URI 1042 Sort Simples.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1042 Sort Simples\URI 1042 Sort Simples\obj\Debug\netcoreapp3.1\URI 1042 Sort Simples.pdb

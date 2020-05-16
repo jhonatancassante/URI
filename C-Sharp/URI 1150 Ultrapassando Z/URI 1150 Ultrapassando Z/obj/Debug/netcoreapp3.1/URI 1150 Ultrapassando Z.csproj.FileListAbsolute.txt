@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\bin\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\bin\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\bin\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\bin\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\bin\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\bin\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\obj\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\obj\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\obj\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\obj\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\obj\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1150 Ultrapassando Z\URI 1150 Ultrapassando Z\obj\Debug\netcoreapp3.1\URI 1150 Ultrapassando Z.genruntimeconfig.cache

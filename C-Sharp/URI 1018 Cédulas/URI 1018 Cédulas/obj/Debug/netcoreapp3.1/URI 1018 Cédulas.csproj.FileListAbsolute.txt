@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\bin\Debug\netcoreapp3.1\URI 1018 Cédulas.exe
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\bin\Debug\netcoreapp3.1\URI 1018 Cédulas.deps.json
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\bin\Debug\netcoreapp3.1\URI 1018 Cédulas.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\bin\Debug\netcoreapp3.1\URI 1018 Cédulas.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\bin\Debug\netcoreapp3.1\URI 1018 Cédulas.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\bin\Debug\netcoreapp3.1\URI 1018 Cédulas.pdb
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\obj\Debug\netcoreapp3.1\URI 1018 Cédulas.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\obj\Debug\netcoreapp3.1\URI 1018 Cédulas.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\obj\Debug\netcoreapp3.1\URI 1018 Cédulas.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\obj\Debug\netcoreapp3.1\URI 1018 Cédulas.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1018 Cédulas\URI 1018 Cédulas\obj\Debug\netcoreapp3.1\URI 1018 Cédulas.pdb

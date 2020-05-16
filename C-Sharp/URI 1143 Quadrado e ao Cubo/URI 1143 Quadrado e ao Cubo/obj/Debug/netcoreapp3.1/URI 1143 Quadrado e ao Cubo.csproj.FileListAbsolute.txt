@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\bin\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1143 Quadrado e ao Cubo\URI 1143 Quadrado e ao Cubo\obj\Debug\netcoreapp3.1\URI 1143 Quadrado e ao Cubo.genruntimeconfig.cache

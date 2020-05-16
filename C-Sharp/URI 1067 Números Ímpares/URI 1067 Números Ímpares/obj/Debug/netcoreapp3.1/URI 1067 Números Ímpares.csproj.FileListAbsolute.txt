@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\bin\Debug\netcoreapp3.1\URI 1067 Números Ímpares.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\bin\Debug\netcoreapp3.1\URI 1067 Números Ímpares.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\bin\Debug\netcoreapp3.1\URI 1067 Números Ímpares.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\bin\Debug\netcoreapp3.1\URI 1067 Números Ímpares.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\bin\Debug\netcoreapp3.1\URI 1067 Números Ímpares.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\bin\Debug\netcoreapp3.1\URI 1067 Números Ímpares.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\obj\Debug\netcoreapp3.1\URI 1067 Números Ímpares.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\obj\Debug\netcoreapp3.1\URI 1067 Números Ímpares.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\obj\Debug\netcoreapp3.1\URI 1067 Números Ímpares.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\obj\Debug\netcoreapp3.1\URI 1067 Números Ímpares.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\obj\Debug\netcoreapp3.1\URI 1067 Números Ímpares.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1067 Números Ímpares\URI 1067 Números Ímpares\obj\Debug\netcoreapp3.1\URI 1067 Números Ímpares.genruntimeconfig.cache

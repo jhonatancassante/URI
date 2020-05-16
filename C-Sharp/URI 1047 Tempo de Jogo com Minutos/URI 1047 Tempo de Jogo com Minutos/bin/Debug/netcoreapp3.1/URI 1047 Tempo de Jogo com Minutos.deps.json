@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "URI 1047 Tempo de Jogo com Minutos/1.0.0": {
+        "runtime": {
+          "URI 1047 Tempo de Jogo com Minutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI 1047 Tempo de Jogo com Minutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\obj\Debug\netcoreapp3.1\URI 1043 Triângulo.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\obj\Debug\netcoreapp3.1\URI 1043 Triângulo.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\obj\Debug\netcoreapp3.1\URI 1043 Triângulo.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\bin\Debug\netcoreapp3.1\URI 1043 Triângulo.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\bin\Debug\netcoreapp3.1\URI 1043 Triângulo.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\bin\Debug\netcoreapp3.1\URI 1043 Triângulo.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\bin\Debug\netcoreapp3.1\URI 1043 Triângulo.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\bin\Debug\netcoreapp3.1\URI 1043 Triângulo.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\bin\Debug\netcoreapp3.1\URI 1043 Triângulo.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\obj\Debug\netcoreapp3.1\URI 1043 Triângulo.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1043 Triângulo\URI 1043 Triângulo\obj\Debug\netcoreapp3.1\URI 1043 Triângulo.pdb

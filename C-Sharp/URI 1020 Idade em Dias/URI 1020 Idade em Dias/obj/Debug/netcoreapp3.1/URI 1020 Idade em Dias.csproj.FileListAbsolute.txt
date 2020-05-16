@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\bin\Debug\netcoreapp3.1\URI 1020 Idade em Dias.exe
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\bin\Debug\netcoreapp3.1\URI 1020 Idade em Dias.deps.json
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\bin\Debug\netcoreapp3.1\URI 1020 Idade em Dias.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\bin\Debug\netcoreapp3.1\URI 1020 Idade em Dias.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\bin\Debug\netcoreapp3.1\URI 1020 Idade em Dias.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\bin\Debug\netcoreapp3.1\URI 1020 Idade em Dias.pdb
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\obj\Debug\netcoreapp3.1\URI 1020 Idade em Dias.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\obj\Debug\netcoreapp3.1\URI 1020 Idade em Dias.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\obj\Debug\netcoreapp3.1\URI 1020 Idade em Dias.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\obj\Debug\netcoreapp3.1\URI 1020 Idade em Dias.dll
+C:\Users\jhona\OneDrive\Udemy\URI 1020 Idade em Dias\URI 1020 Idade em Dias\obj\Debug\netcoreapp3.1\URI 1020 Idade em Dias.pdb

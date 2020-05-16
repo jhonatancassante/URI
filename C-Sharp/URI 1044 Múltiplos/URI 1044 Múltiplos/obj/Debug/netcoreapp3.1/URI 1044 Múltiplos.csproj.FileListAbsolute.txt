@@ -1,0 +1,10 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\bin\Debug\netcoreapp3.1\URI 1044 Múltiplos.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\bin\Debug\netcoreapp3.1\URI 1044 Múltiplos.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\bin\Debug\netcoreapp3.1\URI 1044 Múltiplos.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\bin\Debug\netcoreapp3.1\URI 1044 Múltiplos.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\bin\Debug\netcoreapp3.1\URI 1044 Múltiplos.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\bin\Debug\netcoreapp3.1\URI 1044 Múltiplos.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\obj\Debug\netcoreapp3.1\URI 1044 Múltiplos.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\obj\Debug\netcoreapp3.1\URI 1044 Múltiplos.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\obj\Debug\netcoreapp3.1\URI 1044 Múltiplos.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1044 Múltiplos\URI 1044 Múltiplos\obj\Debug\netcoreapp3.1\URI 1044 Múltiplos.pdb

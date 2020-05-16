@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\bin\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\bin\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\bin\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\bin\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\bin\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\bin\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\obj\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\obj\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\obj\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\obj\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\URI 1045 Tipos de Triângulos\URI 1045 Tipos de Triângulos\obj\Debug\netcoreapp3.1\URI 1045 Tipos de Triângulos.pdb

@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\bin\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\bin\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\bin\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\bin\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\bin\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\bin\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\obj\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\obj\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\obj\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\obj\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\obj\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\obj\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.genruntimeconfig.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\URI 1134 Tipo de Combustível\URI 1134 Tipo de Combustível\obj\Debug\netcoreapp3.1\URI 1134 Tipo de Combustível.csprojAssemblyReference.cache
